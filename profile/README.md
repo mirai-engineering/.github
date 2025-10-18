@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🌟 Mirai Engineering
+# Mirai Engineering
 
 ### Engineering The Future With AI, Tailored To Your Needs
 
