@@ -7,7 +7,7 @@
 **Applied AI Engineering | Real-World Solutions | Production-Grade Systems**
 
 [![Website](https://img.shields.io/badge/Website-mirai--engineering.com-6B46C1?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mirai-engineering.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/mirai-engineering)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/company/mirai-engineering-ou)
 [![Contact](https://img.shields.io/badge/Contact-Get%20In%20Touch-8B5CF6?style=for-the-badge&logo=mail&logoColor=white)](https://mirai-engineering.com/contact.html)
 
 </div>
@@ -277,7 +277,7 @@ Bridge the gap between AI's potential and its practical implementation. We envis
 
 [![Website](https://img.shields.io/badge/🌐-mirai--engineering.com-6B46C1?style=flat-square)](https://mirai-engineering.com)
 [![Email](https://img.shields.io/badge/📧-Contact%20Us-8B5CF6?style=flat-square)](https://mirai-engineering.com/contact.html)
-[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat-square)](https://linkedin.com/company/mirai-engineering)
+[![LinkedIn](https://img.shields.io/badge/💼-LinkedIn-0A66C2?style=flat-square)](https://www.linkedin.com/company/mirai-engineering-ou)
 
 ---
 
