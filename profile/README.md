@@ -14,7 +14,7 @@
 
 ---
 
-## 🚀 Who We Are
+## Who We Are
 
 **Mirai** (未来) — the Japanese word for _future_ — represents our mission to deliver real-world AI models applied to your industry, using tomorrow's technology, today.
 
@@ -29,7 +29,7 @@ We are a team of **passionate engineers** who combine multidisciplinary engineer
 
 ---
 
-## 💡 What We Do
+## What We Do
 
 We specialize in **Applied AI Engineering** — the AI that quietly transforms engineering and business operations behind the scenes.
 
@@ -51,7 +51,7 @@ We specialize in **Applied AI Engineering** — the AI that quietly transforms e
 
 ---
 
-## 🌟 Featured Project: CAI-CryptoPredictiveAI
+## Featured Project: CAI-CryptoPredictiveAI
 
 ### Production-Grade Streaming ML System for Real-Time Market Analysis
 
@@ -103,7 +103,7 @@ This project serves as an **educational resource** for building production ML sy
 
 ---
 
-## 🔧 Our Technology Stack
+## Our Technology Stack
 
 ### Languages & Frameworks
 
@@ -157,7 +157,7 @@ This project serves as an **educational resource** for building production ML sy
 
 ---
 
-## 📊 Success Stories
+## Success Stories
 
 ### 🧬 Molecular Optimization with Graph Neural Networks
 
@@ -215,7 +215,7 @@ We don't just build AI models — we build **sustainable AI systems** that deliv
 
 ---
 
-## 💼 AI by the Numbers
+## AI by the Numbers
 
 | Metric | Impact | Source |
 |--------|--------|--------|
@@ -246,16 +246,6 @@ Dive into our open-source projects and learn from production-grade AI implementa
 
 [![Blog](https://img.shields.io/badge/Read%20Our%20Blog-AI%20Insights-8B5CF6?style=for-the-badge&logo=medium&logoColor=white)](https://mirai-engineering.com/blog.html)
 [![Tech Stack](https://img.shields.io/badge/Our%20Tech%20Stack-Tools%20%26%20Technologies-6B46C1?style=for-the-badge&logo=stackshare&logoColor=white)](https://mirai-engineering.com/ai-tech-stack.html)
-
----
-
-## 👨‍💼 Leadership
-
-**Bruno Copa** — CEO & Founder
-
-Bruno pioneered the use of artificial neural networks in combustion engineering long before the AI revolution. With a **B.Sc. and M.Sc. in Engineering from RWTH Aachen University**, he has led transformative AI projects at **Airbus, AVL, Porsche, Cariad**, and collaborated with **MIT**. His vision: AI as a tool to enhance human productivity while preserving the unique abstraction capabilities that define human intelligence.
-
-> _"Artificial Neural Networks are the second most powerful form of intelligence we've encountered—just after human intelligence. AI should enhance our productivity, not replace our ability to understand the world's foundations."_
 
 ---
 
